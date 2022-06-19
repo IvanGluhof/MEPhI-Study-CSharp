@@ -1,0 +1,61 @@
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\bin\Debug\SpecDep.exe.config
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep.exe
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep.pdb
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\bin\Debug\SpecDep.exe
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\bin\Debug\SpecDep.pdb
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep.HomeForm.resources
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep.Properties.Resources.resources
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep_M.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep_M.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\bin\Debug\Calendar.NET.dll
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\bin\Debug\Calendar.NET.pdb
+E:\Visual Studio Projects\Евжений\SpecDep_M\SpecDep\bin\Debug\Calendar.NET.xml
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\bin\Debug\SpecDep.exe.config
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep.exe
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep.pdb
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep_M.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep.HomeForm.resources
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep.Properties.Resources.resources
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\obj\Debug\SpecDep_M.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\bin\Debug\SpecDep.exe
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\bin\Debug\SpecDep.pdb
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\bin\Debug\Calendar.NET.dll
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\bin\Debug\Calendar.NET.pdb
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M\SpecDep\bin\Debug\Calendar.NET.xml
+F:\Учеба\Программа\SpecDep_M\SpecDep\bin\Debug\SpecDep.exe.config
+F:\Учеба\Программа\SpecDep_M\SpecDep\obj\Debug\SpecDep.exe
+F:\Учеба\Программа\SpecDep_M\SpecDep\obj\Debug\SpecDep.pdb
+F:\Учеба\Программа\SpecDep_M\SpecDep\bin\Debug\SpecDep.exe
+F:\Учеба\Программа\SpecDep_M\SpecDep\bin\Debug\SpecDep.pdb
+F:\Учеба\Программа\SpecDep_M\SpecDep\bin\Debug\Calendar.NET.dll
+F:\Учеба\Программа\SpecDep_M\SpecDep\bin\Debug\Calendar.NET.pdb
+F:\Учеба\Программа\SpecDep_M\SpecDep\bin\Debug\Calendar.NET.xml
+F:\Учеба\Программа\SpecDep_M\SpecDep\obj\Debug\SpecDep_M.csprojResolveAssemblyReference.cache
+F:\Учеба\Программа\SpecDep_M\SpecDep\obj\Debug\SpecDep.HomeForm.resources
+F:\Учеба\Программа\SpecDep_M\SpecDep\obj\Debug\SpecDep.Properties.Resources.resources
+F:\Учеба\Программа\SpecDep_M\SpecDep\obj\Debug\SpecDep_M.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\bin\Debug\SpecDep.exe.config
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.exe
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.pdb
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\bin\Debug\SpecDep.exe
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\bin\Debug\SpecDep.pdb
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.HomeForm.resources
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.Properties.Resources.resources
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep_M.csproj.GenerateResource.Cache
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\bin\Debug\SpecDep.exe.config
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.exe
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.pdb
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\bin\Debug\SpecDep.exe
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\bin\Debug\SpecDep.pdb
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\bin\Debug\Calendar.NET.dll
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\bin\Debug\Calendar.NET.pdb
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\bin\Debug\Calendar.NET.xml
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep_M.csprojResolveAssemblyReference.cache
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.HomeForm.resources
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.Properties.Resources.resources
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep_M.csproj.GenerateResource.Cache
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.Vvod_kursa.resources
+F:\Учеба\Программа\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.Vybor_date_for_scha.resources
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.Vvod_kursa.resources
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep.Vybor_date_for_scha.resources
+E:\Visual Studio Projects\C#\1_Main\Евжений\SpecDep_M_1_1\SpecDep\obj\Debug\SpecDep_M.csprojResolveAssemblyReference.cache

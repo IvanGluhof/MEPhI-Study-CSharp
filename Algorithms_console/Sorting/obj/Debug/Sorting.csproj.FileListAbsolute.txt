@@ -1,0 +1,6 @@
+E:\Visual Studio Projects\C#\2_Library\Algorithms_console\Sorting\bin\Debug\Sorting.exe.config
+E:\Visual Studio Projects\C#\2_Library\Algorithms_console\Sorting\obj\Debug\Sorting.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#\2_Library\Algorithms_console\Sorting\bin\Debug\Sorting.exe
+E:\Visual Studio Projects\C#\2_Library\Algorithms_console\Sorting\bin\Debug\Sorting.pdb
+E:\Visual Studio Projects\C#\2_Library\Algorithms_console\Sorting\obj\Debug\Sorting.exe
+E:\Visual Studio Projects\C#\2_Library\Algorithms_console\Sorting\obj\Debug\Sorting.pdb

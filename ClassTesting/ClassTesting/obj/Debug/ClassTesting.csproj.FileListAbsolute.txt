@@ -1,0 +1,9 @@
+E:\MVS\C#\Test\ClassTesting\ClassTesting\bin\Debug\ClassTesting.exe.config
+E:\MVS\C#\Test\ClassTesting\ClassTesting\bin\Debug\ClassTesting.exe
+E:\MVS\C#\Test\ClassTesting\ClassTesting\bin\Debug\ClassTesting.pdb
+E:\MVS\C#\Test\ClassTesting\ClassTesting\obj\Debug\ClassTesting.csprojResolveAssemblyReference.cache
+E:\MVS\C#\Test\ClassTesting\ClassTesting\obj\Debug\ClassTesting.exe
+E:\MVS\C#\Test\ClassTesting\ClassTesting\obj\Debug\ClassTesting.pdb
+E:\Visual Studio Projects\C#\Library\ClassTesting\ClassTesting\bin\Debug\ClassTesting.exe.config
+E:\Visual Studio Projects\C#\Library\ClassTesting\ClassTesting\obj\Debug\ClassTesting.exe
+E:\Visual Studio Projects\C#\Library\ClassTesting\ClassTesting\obj\Debug\ClassTesting.pdb

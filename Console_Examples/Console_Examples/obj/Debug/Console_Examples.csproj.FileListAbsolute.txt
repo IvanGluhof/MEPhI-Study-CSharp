@@ -1,0 +1,15 @@
+E:\MVS\C#\Console_Examples\Console_Examples\Console_Examples\bin\Debug\Console_Examples.exe.config
+E:\MVS\C#\Console_Examples\Console_Examples\Console_Examples\bin\Debug\Console_Examples.exe
+E:\MVS\C#\Console_Examples\Console_Examples\Console_Examples\bin\Debug\Console_Examples.pdb
+E:\MVS\C#\Console_Examples\Console_Examples\Console_Examples\obj\Debug\Console_Examples.csprojResolveAssemblyReference.cache
+E:\MVS\C#\Console_Examples\Console_Examples\Console_Examples\obj\Debug\Console_Examples.exe
+E:\MVS\C#\Console_Examples\Console_Examples\Console_Examples\obj\Debug\Console_Examples.pdb
+E:\Visual Studio Projects\C#\Console_Examples\Console_Examples\Console_Examples\bin\Debug\Console_Examples.exe.config
+E:\Visual Studio Projects\C#\Console_Examples\Console_Examples\Console_Examples\obj\Debug\Console_Examples.exe
+E:\Visual Studio Projects\C#\Console_Examples\Console_Examples\Console_Examples\obj\Debug\Console_Examples.pdb
+E:\Visual Studio Projects\C#\Console_Examples\Console_Examples\Console_Examples\bin\Debug\Console_Examples.exe
+E:\Visual Studio Projects\C#\Console_Examples\Console_Examples\Console_Examples\bin\Debug\Console_Examples.pdb
+E:\Visual Studio Projects\C#\Console_Examples\Console_Examples\Console_Examples\obj\Debug\Console_Examples.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#\Main\Console_Examples\Console_Examples\Console_Examples\bin\Debug\Console_Examples.exe.config
+E:\Visual Studio Projects\C#\Main\Console_Examples\Console_Examples\Console_Examples\obj\Debug\Console_Examples.exe
+E:\Visual Studio Projects\C#\Main\Console_Examples\Console_Examples\Console_Examples\obj\Debug\Console_Examples.pdb

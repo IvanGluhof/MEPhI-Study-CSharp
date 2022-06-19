@@ -1,0 +1,60 @@
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\bin\Debug\Calendar.NET.XML
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\bin\Debug\Calendar.NET.dll
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\bin\Debug\Calendar.NET.pdb
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.csprojResolveAssemblyReference.cache
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.Calendar.resources
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.CoolButton.resources
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.EventDetails.resources
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.EventToolTip.resources
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.NavigateLeftButton.resources
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.NavigateRightButton.resources
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.ScrollPanel.resources
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.TodayButton.resources
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.csproj.GenerateResource.Cache
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.dll
+E:\Downloads\Новая папка (3)\Новая папка (2)\Calendar.NET\obj\Debug\Calendar.NET.pdb
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\bin\Debug\Calendar.NET.XML
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\bin\Debug\Calendar.NET.dll
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\bin\Debug\Calendar.NET.pdb
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.Calendar.resources
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.CoolButton.resources
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.EventDetails.resources
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.EventToolTip.resources
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.NavigateLeftButton.resources
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.NavigateRightButton.resources
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.ScrollPanel.resources
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.TodayButton.resources
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.dll
+E:\Visual Studio Projects\Евжений\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.pdb
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\bin\Debug\Calendar.NET.XML
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\bin\Debug\Calendar.NET.dll
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\bin\Debug\Calendar.NET.pdb
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.csprojResolveAssemblyReference.cache
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.Calendar.resources
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.CoolButton.resources
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.EventDetails.resources
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.EventToolTip.resources
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.NavigateLeftButton.resources
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.NavigateRightButton.resources
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.ScrollPanel.resources
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.TodayButton.resources
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.csproj.GenerateResource.Cache
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.dll
+F:\Учеба\Программа\SpecDep_M\Calendar.NET\obj\Debug\Calendar.NET.pdb
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\bin\Debug\Calendar.NET.XML
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\bin\Debug\Calendar.NET.dll
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\bin\Debug\Calendar.NET.pdb
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.csprojResolveAssemblyReference.cache
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.Calendar.resources
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.CoolButton.resources
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.EventDetails.resources
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.EventToolTip.resources
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.NavigateLeftButton.resources
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.NavigateRightButton.resources
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.ScrollPanel.resources
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.TodayButton.resources
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.csproj.GenerateResource.Cache
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.dll
+F:\Учеба\Программа\SpecDep_M_1_1\Calendar.NET\obj\Debug\Calendar.NET.pdb

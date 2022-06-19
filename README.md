@@ -1,2 +1,2 @@
-# MEPhI-DissStud
-MEPhI Dissertation
+# MEPhI-Study-CSharp
+MEPhI C# Study Projects

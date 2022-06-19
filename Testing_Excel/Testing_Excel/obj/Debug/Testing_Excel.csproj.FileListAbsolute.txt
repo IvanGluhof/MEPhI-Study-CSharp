@@ -1,0 +1,20 @@
+E:\MVS\C#\Test\Testing_Excel\Testing_Excel\bin\Debug\Testing_Excel.exe.config
+E:\MVS\C#\Test\Testing_Excel\Testing_Excel\bin\Debug\Testing_Excel.exe
+E:\MVS\C#\Test\Testing_Excel\Testing_Excel\bin\Debug\Testing_Excel.pdb
+E:\MVS\C#\Test\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.csprojResolveAssemblyReference.cache
+E:\MVS\C#\Test\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.Form1.resources
+E:\MVS\C#\Test\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.Properties.Resources.resources
+E:\MVS\C#\Test\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.csproj.GenerateResource.Cache
+E:\MVS\C#\Test\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.exe
+E:\MVS\C#\Test\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.pdb
+E:\MVS\C#\Test\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.csproj.ResolveComReference.cache
+E:\Visual Studio Projects\C#\Library\Testing_Excel\Testing_Excel\bin\Debug\Testing_Excel.exe.config
+E:\Visual Studio Projects\C#\Library\Testing_Excel\Testing_Excel\bin\Debug\Testing_Excel.exe
+E:\Visual Studio Projects\C#\Library\Testing_Excel\Testing_Excel\bin\Debug\Testing_Excel.pdb
+E:\Visual Studio Projects\C#\Library\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\C#\Library\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.csproj.ResolveComReference.cache
+E:\Visual Studio Projects\C#\Library\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.Form1.resources
+E:\Visual Studio Projects\C#\Library\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.Properties.Resources.resources
+E:\Visual Studio Projects\C#\Library\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.csproj.GenerateResource.Cache
+E:\Visual Studio Projects\C#\Library\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.exe
+E:\Visual Studio Projects\C#\Library\Testing_Excel\Testing_Excel\obj\Debug\Testing_Excel.pdb

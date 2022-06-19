@@ -1,0 +1,10 @@
+E:\MVS\C#\Test\Thread_Step_1\Thread_Step_1\bin\Debug\Thread_Step_1.exe.config
+E:\MVS\C#\Test\Thread_Step_1\Thread_Step_1\bin\Debug\Thread_Step_1.exe
+E:\MVS\C#\Test\Thread_Step_1\Thread_Step_1\bin\Debug\Thread_Step_1.pdb
+E:\MVS\C#\Test\Thread_Step_1\Thread_Step_1\obj\Debug\Thread_Step_1.csprojResolveAssemblyReference.cache
+E:\MVS\C#\Test\Thread_Step_1\Thread_Step_1\obj\Debug\Thread_Step_1.exe
+E:\MVS\C#\Test\Thread_Step_1\Thread_Step_1\obj\Debug\Thread_Step_1.pdb
+E:\MVS\C#\Test\Thread_Step_1\Thread_Step_1\bin\Debug\Thread_Step_1.exe.manifest
+E:\MVS\C#\Test\Thread_Step_1\Thread_Step_1\bin\Debug\Thread_Step_1.application
+E:\MVS\C#\Test\Thread_Step_1\Thread_Step_1\obj\Debug\Thread_Step_1.exe.manifest
+E:\MVS\C#\Test\Thread_Step_1\Thread_Step_1\obj\Debug\Thread_Step_1.application

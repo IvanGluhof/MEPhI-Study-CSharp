@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Calendar.NET.Calendar" Collapsed="true">
+    <Position X="9" Y="5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier />
+  </Class>
+  <Class Name="SpecDep.DataBase_FrameWork">
+    <Position X="0.5" Y="1.75" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>EAAAEADAAgAADAgAAAEAAAEAAQABACAJgBJwAgCiQAA=</HashCode>
+      <FileName>Frameworks\DataBase_FrameWork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecDep.Documents_Framework">
+    <Position X="3.25" Y="1.75" Width="2.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAUEiEBASAJIASAggACCAAQKAIGQAEiDiABRRBAgIBo=</HashCode>
+      <FileName>Frameworks\Documents_Framework.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SpecDep.HomeForm">
+    <Position X="6" Y="5" Width="2.75" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ladc6CB5oqyGRRHpGUaOQnmi2CUr4GCFE/CAZegbpF8=</HashCode>
+      <FileName>HomeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Windows.Forms.UserControl" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Windows.Forms.Form" Collapsed="true">
+    <Position X="6" Y="3.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="System.Object" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="Calendar.NET.CalendarViews" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,12 @@
+E:\MVS\C#\Test\RandWindow\RandWindow\bin\Debug\RandWindow.exe.config
+E:\MVS\C#\Test\RandWindow\RandWindow\bin\Debug\RandWindow.exe
+E:\MVS\C#\Test\RandWindow\RandWindow\bin\Debug\RandWindow.pdb
+E:\MVS\C#\Test\RandWindow\RandWindow\obj\Debug\RandWindow.csprojResolveAssemblyReference.cache
+E:\MVS\C#\Test\RandWindow\RandWindow\obj\Debug\RandWindow.Form1.resources
+E:\MVS\C#\Test\RandWindow\RandWindow\obj\Debug\RandWindow.Properties.Resources.resources
+E:\MVS\C#\Test\RandWindow\RandWindow\obj\Debug\RandWindow.csproj.GenerateResource.Cache
+E:\MVS\C#\Test\RandWindow\RandWindow\obj\Debug\RandWindow.exe
+E:\MVS\C#\Test\RandWindow\RandWindow\obj\Debug\RandWindow.pdb
+E:\Visual Studio Projects\C#\Library\RandWindow\RandWindow\bin\Debug\RandWindow.exe.config
+E:\Visual Studio Projects\C#\Library\RandWindow\RandWindow\obj\Debug\RandWindow.exe
+E:\Visual Studio Projects\C#\Library\RandWindow\RandWindow\obj\Debug\RandWindow.pdb

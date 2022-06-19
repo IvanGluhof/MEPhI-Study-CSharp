@@ -1,0 +1,10 @@
+E:\MVS\C#\Test\second_application\second_application\bin\Debug\second_application.exe.config
+E:\MVS\C#\Test\second_application\second_application\bin\Debug\second_application.exe
+E:\MVS\C#\Test\second_application\second_application\bin\Debug\second_application.pdb
+E:\MVS\C#\Test\second_application\second_application\obj\Debug\second_application.csprojResolveAssemblyReference.cache
+E:\MVS\C#\Test\second_application\second_application\obj\Debug\second_application.Form1.resources
+E:\MVS\C#\Test\second_application\second_application\obj\Debug\second_application.Properties.Resources.resources
+E:\MVS\C#\Test\second_application\second_application\obj\Debug\second_application.csproj.GenerateResource.Cache
+E:\MVS\C#\Test\second_application\second_application\obj\Debug\second_application.exe
+E:\MVS\C#\Test\second_application\second_application\obj\Debug\second_application.pdb
+E:\MVS\C#\Test\second_application\second_application\obj\Debug\second_application.Preview.resources

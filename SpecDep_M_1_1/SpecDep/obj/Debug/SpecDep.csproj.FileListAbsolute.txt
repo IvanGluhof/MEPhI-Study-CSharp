@@ -1,0 +1,34 @@
+F:\Учеба\Программа\SpecDep\SpecDep\bin\Debug\SpecDep.exe.config
+F:\Учеба\Программа\SpecDep\SpecDep\bin\Debug\SpecDep.exe
+F:\Учеба\Программа\SpecDep\SpecDep\bin\Debug\SpecDep.pdb
+F:\Учеба\Программа\SpecDep\SpecDep\obj\Debug\SpecDep.csprojResolveAssemblyReference.cache
+F:\Учеба\Программа\SpecDep\SpecDep\obj\Debug\SpecDep.HomeForm.resources
+F:\Учеба\Программа\SpecDep\SpecDep\obj\Debug\SpecDep.Properties.Resources.resources
+F:\Учеба\Программа\SpecDep\SpecDep\obj\Debug\SpecDep.csproj.GenerateResource.Cache
+F:\Учеба\Программа\SpecDep\SpecDep\obj\Debug\SpecDep.exe
+F:\Учеба\Программа\SpecDep\SpecDep\obj\Debug\SpecDep.pdb
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\bin\Debug\SpecDep.exe.config
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\obj\Debug\SpecDep.exe
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\obj\Debug\SpecDep.pdb
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\bin\Debug\SpecDep.exe
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\bin\Debug\SpecDep.pdb
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\bin\Debug\mscorlib.dll
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\bin\Debug\ru\mscorlib.resources.dll
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\bin\Debug\normidna.nlp
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\bin\Debug\normnfc.nlp
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\bin\Debug\normnfd.nlp
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\bin\Debug\normnfkc.nlp
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\bin\Debug\normnfkd.nlp
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\obj\Debug\SpecDep.csprojResolveAssemblyReference.cache
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\obj\Debug\SpecDep.HomeForm.resources
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\obj\Debug\SpecDep.Properties.Resources.resources
+E:\Data\МИФИ\Новая папка\SpecDep\SpecDep\obj\Debug\SpecDep.csproj.GenerateResource.Cache
+E:\Data\МИФИ\Евжений\SpecDep\SpecDep\bin\Debug\SpecDep.exe.config
+E:\Data\МИФИ\Евжений\SpecDep\SpecDep\obj\Debug\SpecDep.exe
+E:\Data\МИФИ\Евжений\SpecDep\SpecDep\obj\Debug\SpecDep.pdb
+E:\Data\МИФИ\Евжений\SpecDep\SpecDep\bin\Debug\SpecDep.exe
+E:\Data\МИФИ\Евжений\SpecDep\SpecDep\bin\Debug\SpecDep.pdb
+E:\Data\МИФИ\Евжений\SpecDep\SpecDep\obj\Debug\SpecDep.csprojResolveAssemblyReference.cache
+E:\Data\МИФИ\Евжений\SpecDep\SpecDep\obj\Debug\SpecDep.HomeForm.resources
+E:\Data\МИФИ\Евжений\SpecDep\SpecDep\obj\Debug\SpecDep.Properties.Resources.resources
+E:\Data\МИФИ\Евжений\SpecDep\SpecDep\obj\Debug\SpecDep.csproj.GenerateResource.Cache
